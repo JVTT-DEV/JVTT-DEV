@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JVTT...
+- 👋 Hi, I’m @JVTT
 - 👀 I’m interested in code with different technologies
 - 🌱 I’m currently learning from zero
 - 💞️ I’m looking to collaborate on community soon
